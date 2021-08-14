@@ -1,0 +1,4 @@
+git remote set-url <remote name> https://<token>@github.com/<git_url>
+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
+
+git remote set-url origin https://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@github.com/https://github.com/obi-nwokogba/pesapulse.git
